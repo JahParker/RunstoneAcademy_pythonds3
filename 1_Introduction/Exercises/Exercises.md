@@ -2,7 +2,7 @@
 
 - [ ] 1. Construct a class hierarchy for people on a college campus. Include faculty, staff, and students. What do they have in common? What distinguishes them from one another?
 
-- [ ] Construct a class hierarchy for bank accounts.
+- [ ] 2. Construct a class hierarchy for bank accounts.
 
 - [ ] 3. Construct a class hierarchy for different types of computers.
 
